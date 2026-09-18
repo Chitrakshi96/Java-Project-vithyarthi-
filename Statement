@@ -1,0 +1,5 @@
+### Project Statement
+
+Hospital Management System is a console-based Java application designed to manage hospital records efficiently. 
+It allows users to register doctors and patients, book and manage appointments, and view records.
+The project demonstrates **OOP concepts such as inheritance and abstraction, custom exception handling, and file handling** for storing data permanently.
